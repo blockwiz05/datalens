@@ -1,0 +1,24 @@
+{
+    "reactSnippets.settings.prettierEnabled": true,
+    "eslint.format.enable": true,
+    "eslint.probe": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown",
+        "react"
+    ],
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+
+    ],
+
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always"
+    },
+    "files.autoSave": "afterDelay"
+}
